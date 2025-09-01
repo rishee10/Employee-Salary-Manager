@@ -17,4 +17,15 @@ It allows updating employee salaries with bonuses.
 1. Clone the repository:
    ```git clone https://github.com/rishee10/Employee-Salary-Manager.git```
 
-   ```cd E
+   ```cd Employee-Salary-Manager```
+
+2. Create virtual environment (optional but recommended)
+
+   ```venv\Scripts\activate```
+
+3. Install dependencies
+   ```pip install -r requirements.txt```
+
+4. Run the API server
+   ```python main.py```
+      
