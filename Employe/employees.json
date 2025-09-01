@@ -1,0 +1,54 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "salary": 43923.0
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "salary": 46851.2
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "salary": 51243.5
+        },
+        {
+            "id": 4,
+            "name": "Diana",
+            "salary": 58564.0
+        },
+        {
+            "id": 5,
+            "name": "Ethan",
+            "salary": 40994.8
+        },
+        {
+            "id": 6,
+            "name": "Fiona",
+            "salary": 65884.5
+        },
+        {
+            "id": 7,
+            "name": "George",
+            "salary": 55635.8
+        },
+        {
+            "id": 8,
+            "name": "Hannah",
+            "salary": 73205.0
+        },
+        {
+            "id": 9,
+            "name": "Ian",
+            "salary": 61492.2
+        },
+        {
+            "id": 10,
+            "name": "Julia",
+            "salary": 68812.7
+        }
+    ]
+}
