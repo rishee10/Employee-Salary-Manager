@@ -15,4 +15,6 @@ It allows updating employee salaries with bonuses.
 ## Setup Instructions
 
 1. Clone the repository:
-   ``
+   ```git clone https://github.com/rishee10/Employee-Salary-Manager.git```
+
+   ```cd E
